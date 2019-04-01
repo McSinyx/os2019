@@ -10,7 +10,5 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *Put your name here*
-* ID: *Put your ID here*
-
-
+* Name: Raphael McSinyx
+* ID: 436e58
